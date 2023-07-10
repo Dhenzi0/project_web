@@ -1,0 +1,92 @@
+.frame{
+ width:1440 ;
+ height: 1024;
+ background-color: #fff;
+}
+
+.logo{
+    width: 107px;
+    height: 125px;
+    margin-left: 267px;
+    padding-top: 60px;
+
+}
+
+h2{
+    
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    
+    width: 300px;
+    margin-left: 187px;
+    margin-bottom: 59px;
+    font-family: 'lato',sans-serif;
+    letter-spacing: 4px;
+}
+
+label{
+
+    margin-left: 121px;
+    
+    font-size: 20px;
+    font-family: 'Lato',sans-serif;
+    letter-spacing: 4px;
+    line-height: 35px;
+    font-style: normal;
+}
+
+.username{
+    width: 380px;
+    height: 46px;
+    margin-top: 10px;
+    margin-left: 121px;
+    margin-bottom: 10px;
+
+
+    flex-shrink: 0;
+    border-radius: 10px ;
+    background-color: #fff;
+    
+    border: none;
+    
+}
+.email{
+    width: 380px;
+    height: 46px;
+    margin-top: 10px;
+    margin-left: 121px;
+    margin-bottom: 10px;
+
+
+    flex-shrink: 0;
+    border-radius: 10px ;
+    background-color: #fff;
+    
+    border: none;
+}
+    
+.input{
+    width: 85px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 121px;
+
+    border-radius: 10px;
+
+    border:none;
+
+    font-family: 'Lato',sans-serif;
+    letter-spacing: 4px;
+    
+}
+
+.frame-1{
+    width: 632px;
+    height: 687px;
+
+    margin-left: 404px;
+    margin-top: 162px;
+    margin-bottom: 175px;
+    background : linear-gradient(199deg,#5BB4F3 0%,#84A1FA 95.68%);
+ }       
